@@ -2,7 +2,7 @@
 
 **📌 Project Overview**
 
-This project is an Online Compiler / Coding Judge System that allows users to write, compile, and execute code in multiple programming languages.
+This project is an Online Compiler that allows users to write, compile, and execute code in multiple programming languages.
 It features a Spring Boot backend, a responsive frontend UI, and PostgreSQL database integration, along with Judge0 API for real-time code execution.
 The platform enables users to practice coding problems, run code instantly, and track submissions efficiently.
 

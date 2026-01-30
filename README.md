@@ -39,8 +39,10 @@ PostgreSQL
 🔹 Code Execution API
 Judge0 API
 
-**📂 Project Structure**
 
+## 📂 Project Structure
+
+```
 codingtest/
 │
 ├── Backend/ → Spring Boot backend
@@ -70,6 +72,8 @@ codingtest/
 │ ├── package.json → Project Dependencies
 │ ├── package-lock.json
 │ └── vite.config.js → Vite Configuration
+```
+
 
 
 **⚙️ Installation & Setup**

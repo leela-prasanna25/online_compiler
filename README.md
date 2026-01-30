@@ -1,12 +1,12 @@
  Online Compiler – Coding Judge System##
 
-##📌 Project Overview
+**📌 Project Overview**
 
 This project is an Online Compiler / Coding Judge System that allows users to write, compile, and execute code in multiple programming languages.
 It features a Spring Boot backend, a responsive frontend UI, and PostgreSQL database integration, along with Judge0 API for real-time code execution.
 The platform enables users to practice coding problems, run code instantly, and track submissions efficiently.
 
-🚀 Features
+**🚀 Features**
 ```
 🧑‍💻 Write and run code online
 ⚡ Supports multiple programming languages
@@ -18,7 +18,7 @@ The platform enables users to practice coding problems, run code instantly, and 
 🗄️ PostgreSQL database integration
 ```
 
-##🛠️ Tech Stack
+**🛠️ Tech Stack**
 ```
 🔹 Backend
 Java
@@ -41,7 +41,7 @@ PostgreSQL
 Judge0 API
 
 ```
-## 📂 Project Structure
+**📂 Project Structure**
 
 ```
 codingtest/
@@ -77,7 +77,7 @@ codingtest/
 
 
 
-##⚙️ Installation & Setup
+**⚙️ Installation & Setup**
 ```
 🔹 Backend Setup
 -Navigate to backend folder
@@ -96,7 +96,7 @@ codingtest/
 -Run the frontend:
     npm start
 ```
-🔗 API Endpoints
+**🔗 API Endpoints**
 ```
 
 📘 Problems
@@ -111,7 +111,7 @@ GET /submissions → View submissions
 
 ```
 
-📸 How It Works
+**📸 How It Works**
 ```
 
 User writes code
@@ -121,7 +121,7 @@ Judge0 executes code
 Result is returned to frontend
 ```
 
-##🔮 Future Enhancements
+**🔮 Future Enhancements**
 ```
 
 User authentication
@@ -130,14 +130,14 @@ Contest mode
 Leaderboard
 Test case validation
 ```
-##🤝 Contribution
+**🤝 Contribution**
 
 Contributions are welcome! Feel free to fork this repo and submit pull requests.
 
-##📄 License
+**📄 License**
 
 This project is for educational purposes.
 
-##👩‍💻 Author
+**👩‍💻 Author**
 
 Leela Prasanna Mutyala
